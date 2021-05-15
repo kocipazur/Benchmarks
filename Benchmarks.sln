@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reference", "Reference\Refe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{E02D40BF-7C83-4DEF-AA70-CEAFF5D29D1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncConfigureAwaitFalse", "AwaitConfigureAwaitFalse\AsyncConfigureAwaitFalse.csproj", "{7F7E17CC-2CB6-4B0F-82E2-BA2E5BEEFDE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asynchronous", "AwaitConfigureAwaitFalse\Asynchronous.csproj", "{7F7E17CC-2CB6-4B0F-82E2-BA2E5BEEFDE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
