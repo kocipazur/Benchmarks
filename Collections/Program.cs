@@ -10,9 +10,10 @@ namespace Collections
         static void Main(string[] args)
         {
             _ = BenchmarkRunner.Run<AddOperations>();
-            _ = BenchmarkRunner.Run<DeleteOperations>();
+            //_ = BenchmarkRunner.Run<DeleteOperations>();
         }
     }
+    [MemoryDiagnoser]
     public class AddOperations
     {
         public List<ExampleObject> ListWith1000ExampleObjects;
